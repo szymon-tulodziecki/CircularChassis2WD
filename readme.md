@@ -55,11 +55,10 @@ Witam w projekcie **CircularChassis2WD**! To podwozie robota 2WD zostało zaproj
 
 ## 🎥 Prezentacja
 
-- Zobacz film z procesu wycinania laserowego:  
+- Zobacz film z procesu grawerowania laserowego:  
 
-<video src="img/laser.mp4" controls width="480">
-  Twój przeglądarka nie obsługuje odtwarzania wideo.
-</video>
+![Grawerowanie laserowe ](img/laser.gif)
+
 
 ---
 
