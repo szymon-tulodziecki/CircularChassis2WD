@@ -40,23 +40,26 @@ Witam w projekcie **CircularChassis2WD**! To podwozie robota 2WD zostało zaproj
 - **Galeria:**  
 
 ![Tinkercad – wizualizacja projektu 3D](img/p1.png)  
-*Wizualizacja projektu 3D w Tinkercad*
+*Górna płyta (top.svg) w Inkscape*
 
 ![Grawer ornament – podgląd](img/p2.png)  
-*Grawer (ornament) – podgląd*
-
-![Bottom.svg w Inkscape](img/p3.png)  
 *Dolna płyta (bottom.svg) w Inkscape*
 
+![Bottom.svg w Inkscape](img/p3.png)  
+*Grawer (ornament) – podgląd*
+
 ![Top.svg w Inkscape](img/p4.png)  
-*Górna płyta (top.svg) w Inkscape*
+*Wizualizacja projektu 3D w Tinkercad*
 
 ---
 
 ## 🎥 Prezentacja
 
 - Zobacz film z procesu wycinania laserowego:  
-[▶️ Odtwórz film (laser.mp4)](img/laser.mp4)
+
+<video src="img/laser.mp4" controls width="480">
+  Twój przeglądarka nie obsługuje odtwarzania wideo.
+</video>
 
 ---
 
