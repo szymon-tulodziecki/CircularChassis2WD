@@ -62,7 +62,7 @@ Witam w projekcie **CircularChassis2WD**! To podwozie robota 2WD zostało zaproj
 
 - Zobacz film z procesu druku 3D:
 
-![Grawerowanie laserowe ](img/druk.gif)
+![Druk 3D ](img/druk.gif)
 
 ---
 
@@ -82,4 +82,3 @@ Projekt inspirowany motywami celtyckimi i symboliką ouroboros, co nadaje roboto
 
 
 ## 🏁 Miłego składania i eksperymentowania! 🚗✨
-
