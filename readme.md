@@ -12,7 +12,8 @@ Witam w projekcie **CircularChassis2WD**! To podwozie robota 2WD zostało zaproj
 ├── bottom.svg         # Plik SVG dolnej płyty podwozia
 ├── engraver.svg       # Plik SVG z grawerem (ornament)
 ├── img
-│   ├── laser.mp4      # Film z procesu wycinania laserowego
+│   ├── laser.gif     # Film z procesu wycinania laserowego
+|   ├── druk.gif      # Film z procesu druku 3D
 │   ├── p1.png         # Wizualizacja projektu 3D (Tinkercad)
 │   ├── p2.png         # Grawer (ornament) – podgląd
 │   ├── p3.png         # Bottom.svg w Inkscape
@@ -59,6 +60,9 @@ Witam w projekcie **CircularChassis2WD**! To podwozie robota 2WD zostało zaproj
 
 ![Grawerowanie laserowe ](img/laser.gif)
 
+- Zobacz film z procesu druku 3D:
+
+![Grawerowanie laserowe ](img/druk.gif)
 
 ---
 
